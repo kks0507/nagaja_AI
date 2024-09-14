@@ -90,9 +90,9 @@ def get_movie_reviews_selenium(movie_url):
 Selenium을 이용해 영화 리뷰를 스크래핑하는 함수입니다.
 
 ## Contributor
-- kks0507 (movie2.py, gemini.py, geminihot.py, geminimv.py, Hugging Face transformers의 감정분석 파이프라인)
-- jhed0613 (restaurant.py)
-- Hoyeon9 (hotel.py)
+- kks0507 (movie 웹 스크래핑, Gemini API, Hugging Face transformers의 감정분석 파이프라인)
+- jhed0613 (restaurant 웹 스크래핑, Hugging Face transformers의 감정분석 파이프라인)
+- Hoyeon9 (hotel 웹스크래핑)
 
 ## License
 This project is licensed under the MIT License.
